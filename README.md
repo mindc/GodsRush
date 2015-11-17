@@ -4,13 +4,9 @@ Some scripts to deal with GodsRush content
 
 ## Directories
 
-### atdata
+### animation
 
-Converting binary format of atdata files to (Spine) atlas format
-
-### jsondata
-
-Converting binary format of jsondata files to (Spine) json format
+Converting binary format of atdata and jsondata files to (Spine) atlas and json format
 
 ### pvr-ccz
 

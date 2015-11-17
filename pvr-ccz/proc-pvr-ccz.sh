@@ -1,8 +1,7 @@
 #!/bin/bash
 
-
-WORKDIR=.
-DATADIR=/home/vhttpd/static.matcom.com.pl/images/godsrush
+WORKDIR=`pwd`
+DATADIR=`realpath $1`
 
 for i in `find $DATADIR -name "*.pvr.ccz" -print`;do
 	target=${i%.*.*}

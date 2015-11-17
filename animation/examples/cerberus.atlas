@@ -1,0 +1,300 @@
+
+cerberus.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bingtou_bozi
+  rotate: false
+  xy: 453,514
+  size: 77,95
+  orig: 77,95
+  offset: 0,0
+  index: -1
+bingtou_shang
+  rotate: true
+  xy: 453,611
+  size: 123,75
+  orig: 123,75
+  offset: 0,0
+  index: -1
+bingtou_xia
+  rotate: false
+  xy: 338,60
+  size: 85,54
+  orig: 85,54
+  offset: 0,0
+  index: -1
+bingtoubiaoqiang_daiji
+  rotate: true
+  xy: 453,230
+  size: 56,55
+  orig: 56,55
+  offset: 0,0
+  index: -1
+bingtoubiaoqiang_gongji
+  rotate: true
+  xy: 453,172
+  size: 56,55
+  orig: 56,55
+  offset: 0,0
+  index: -1
+bingtoubiaoqiang_shengli
+  rotate: false
+  xy: 453,115
+  size: 56,55
+  orig: 56,55
+  offset: 0,0
+  index: -1
+bingtoubiaoqiang_shibai
+  rotate: true
+  xy: 953,791
+  size: 56,55
+  orig: 56,55
+  offset: 0,0
+  index: -1
+dutou_bozi
+  rotate: false
+  xy: 895,849
+  size: 105,75
+  orig: 105,75
+  offset: 0,0
+  index: -1
+dutou_shang
+  rotate: false
+  xy: 558,761
+  size: 111,75
+  orig: 111,75
+  offset: 0,0
+  index: -1
+dutou_xia
+  rotate: false
+  xy: 230,59
+  size: 106,55
+  orig: 106,55
+  offset: 0,0
+  index: -1
+dutoubiaoqing_daiji
+  rotate: true
+  xy: 281,24
+  size: 33,51
+  orig: 33,51
+  offset: 0,0
+  index: -1
+dutoubiaoqing_gongji
+  rotate: true
+  xy: 517,424
+  size: 33,51
+  orig: 33,51
+  offset: 0,0
+  index: -1
+dutoubiaoqing_shengli
+  rotate: false
+  xy: 510,371
+  size: 33,51
+  orig: 33,51
+  offset: 0,0
+  index: -1
+dutoubiaoqing_shibai
+  rotate: false
+  xy: 510,318
+  size: 33,51
+  orig: 33,51
+  offset: 0,0
+  index: -1
+huotou_bozi
+  rotate: false
+  xy: 671,774
+  size: 99,62
+  orig: 99,62
+  offset: 0,0
+  index: -1
+huotou_shang
+  rotate: false
+  xy: 453,736
+  size: 103,100
+  orig: 103,100
+  offset: 0,0
+  index: -1
+huotou_xia
+  rotate: true
+  xy: 453,425
+  size: 87,62
+  orig: 87,62
+  offset: 0,0
+  index: -1
+huotoubiaoqing_daiji
+  rotate: false
+  xy: 130,7
+  size: 57,41
+  orig: 57,41
+  offset: 0,0
+  index: -1
+huotoubiaoqing_gongji
+  rotate: true
+  xy: 530,677
+  size: 57,41
+  orig: 57,41
+  offset: 0,0
+  index: -1
+huotoubiaoqing_shengli
+  rotate: true
+  xy: 530,618
+  size: 57,41
+  orig: 57,41
+  offset: 0,0
+  index: -1
+huotoubiaoqing_shibai
+  rotate: true
+  xy: 532,559
+  size: 57,41
+  orig: 57,41
+  offset: 0,0
+  index: -1
+kebns0003
+  rotate: false
+  xy: 895,791
+  size: 56,56
+  orig: 56,56
+  offset: 0,0
+  index: -1
+shengti
+  rotate: false
+  xy: 895,926
+  size: 111,92
+  orig: 111,92
+  offset: 0,0
+  index: -1
+tyyw0010
+  rotate: false
+  xy: 1,568
+  size: 450,450
+  orig: 450,450
+  offset: 0,0
+  index: -1
+tyyw0011
+  rotate: false
+  xy: 1,116
+  size: 450,450
+  orig: 450,450
+  offset: 0,0
+  index: -1
+tyyw0012
+  rotate: false
+  xy: 453,838
+  size: 440,180
+  orig: 440,180
+  offset: 0,0
+  index: -1
+weiba
+  rotate: false
+  xy: 68,3
+  size: 60,45
+  orig: 60,45
+  offset: 0,0
+  index: -1
+xiaosheng1
+  rotate: true
+  xy: 772,771
+  size: 65,83
+  orig: 65,83
+  offset: 0,0
+  index: -1
+xiaosheng2
+  rotate: false
+  xy: 453,354
+  size: 55,69
+  orig: 55,69
+  offset: 0,0
+  index: -1
+yingzi
+  rotate: false
+  xy: 1,50
+  size: 227,64
+  orig: 227,64
+  offset: 0,0
+  index: -1
+youhou_datui
+  rotate: false
+  xy: 532,514
+  size: 46,43
+  orig: 46,43
+  offset: 0,0
+  index: -1
+youhou_jiao
+  rotate: true
+  xy: 510,187
+  size: 41,34
+  orig: 41,34
+  offset: 0,0
+  index: -1
+youhou_xiaotui
+  rotate: true
+  xy: 510,230
+  size: 40,39
+  orig: 40,39
+  offset: 0,0
+  index: -1
+youqian_shangbi
+  rotate: false
+  xy: 517,459
+  size: 46,53
+  orig: 46,53
+  offset: 0,0
+  index: -1
+youqian_xiaobi
+  rotate: false
+  xy: 189,4
+  size: 44,44
+  orig: 44,44
+  offset: 0,0
+  index: -1
+youqian_zhua
+  rotate: false
+  xy: 1,1
+  size: 65,47
+  orig: 65,47
+  offset: 0,0
+  index: -1
+zuohou_datui
+  rotate: true
+  xy: 510,272
+  size: 44,39
+  orig: 44,39
+  offset: 0,0
+  index: -1
+zuohou_jiao
+  rotate: true
+  xy: 425,75
+  size: 39,20
+  orig: 39,20
+  offset: 0,0
+  index: -1
+zuohou_xiaotui
+  rotate: false
+  xy: 545,380
+  size: 32,42
+  orig: 32,42
+  offset: 0,0
+  index: -1
+zuoqian_shangbi
+  rotate: true
+  xy: 453,288
+  size: 64,55
+  orig: 64,55
+  offset: 0,0
+  index: -1
+zuoqian_xiaobi
+  rotate: false
+  xy: 235,12
+  size: 44,45
+  orig: 44,45
+  offset: 0,0
+  index: -1
+zuoqian_zhua
+  rotate: true
+  xy: 857,778
+  size: 58,36
+  orig: 58,36
+  offset: 0,0
+  index: -1
