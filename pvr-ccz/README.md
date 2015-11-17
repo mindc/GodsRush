@@ -5,5 +5,5 @@
 Usage
 
 ```sh
-	./proc-pvr-ccz.sh <directory to convert>
+./proc-pvr-ccz.sh <directory to convert>
 ```
