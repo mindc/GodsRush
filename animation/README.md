@@ -1,6 +1,6 @@
-### Animations
+# Animations
 
-# atdata.pl
+### atdata.pl
 
 Script creates file.atlas in same directory where file.atdata is located
 
@@ -9,7 +9,7 @@ Usage
 ./atdata.pl <file.atdata>
 ```
 
-# jsondata.pl
+### jsondata.pl
 
 Script outputs data to STDOUT
 

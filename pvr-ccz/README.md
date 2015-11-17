@@ -1,6 +1,6 @@
-### Unpacking sprites with TexturePacker
+# Unpacking sprites with TexturePacker
 
-# proc-pvr-ccz.sh
+### proc-pvr-ccz.sh
 
 Usage
 
