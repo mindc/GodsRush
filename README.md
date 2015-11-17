@@ -11,3 +11,7 @@ Converting binary format of atdata and jsondata files to (Spine) atlas and json 
 ### pvr-ccz
 
 Converting sprites packed with TexturePacker to original png
+
+### csv
+
+Decoded csv files
